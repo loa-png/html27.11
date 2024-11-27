@@ -1,0 +1,48 @@
+*{margin: 0;
+padding: 0;}
+h1{
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: normal;
+        font-style: 200px;
+        background-color: aqua;
+        text-align: center;
+        font-size: 40px;
+
+}
+h2{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: 200px;
+    text-align: center;
+    font-size: 30px;
+
+}
+p{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    font-size: 20px;
+
+}
+ div{
+    background-color: #9a8ae3;
+ }
+table{ 
+
+    
+    margin-top: 20px;
+    text-align: center;
+   
+}
+
+.c{
+    background-color: aliceblue;
+}
+img{
+    width: 200PX;
+   
+}
